@@ -1,0 +1,38 @@
+body{
+    background-attachment: fixed;
+
+    background-image: linear-gradient( 115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7) ), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+}
+
+form{
+    font-size: 20px;
+    width: 600px;
+    margin: auto;
+    padding: auto;
+    background-color: #1b1b32;
+    padding: 30px;
+    color: white;
+}
+
+h1, p{
+    text-align: center;
+    color: white;
+}
+#boton{
+    width: 100%;
+    color: white;
+    background-color: #37af65;
+}
+.entrada{
+    border-radius: 5px;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.entrada2{
+    border-radius: 5px;
+    width: 100%;
+    height: 70px;
+    margin: 20px 0px;
+}
